@@ -42,7 +42,7 @@ public class PostsApiControllerTest {
 
     @Test
     public void posts_등록된다() throws Exception{
-        //give
+        //given
         String title = "title";
         String content = "content";
 
